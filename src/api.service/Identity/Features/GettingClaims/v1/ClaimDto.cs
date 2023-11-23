@@ -1,0 +1,7 @@
+namespace api.service.Identity.Features.GettingClaims.v1;
+
+public class ClaimDto
+{
+    public string Type { get; init; }
+    public string Value { get; init; }
+}
