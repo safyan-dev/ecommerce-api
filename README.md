@@ -1,5 +1,6 @@
 # Api with Feature Folder Structure and Verticle Slice Architecture.
 > `User Identity Management` is an API sample, built with .Net 8 and different software architecture and technologies like Verticle Slice Architecture, Feature Folder Structure, and CQRS Pattern.
+
 🌀 Keep in mind this repository is a work in progress and will add changes over time and specifically, I work on this for my learning new things. 🚀
 
 ## Technologies - Libraries
